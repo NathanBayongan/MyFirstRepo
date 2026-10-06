@@ -1,2 +1,2 @@
 name=input("Enter your name:  ")
-print(f'Hello, {name}! Welcome to my Git!')
+print('Your name has ', len(name), 'characters. Stand proud!')
